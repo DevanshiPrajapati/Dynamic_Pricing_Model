@@ -11,9 +11,10 @@ This project implements a dynamic pricing model using Q-learning, a Reinforcemen
 ## Usage
 
 1. Clone the repository
-2. Generate data using 'data_generation.py'. This script creates synthetic pricing data and saves it to 'pricing_data.csv'.
-3. Train the Q-learning model using 'q_learning.py'. This trains the Q-learning agent and saves the results as NumPy files.
-4. Visualize results using 'visualization.py'. This creates various visualizations of the learning process and price recommendations.
+2. Download all the required libraries from 'requirements.txt'.
+3. Generate data using 'data_generation.py'. This script creates synthetic pricing data and saves it to 'pricing_data.csv'.
+4. Train the Q-learning model using 'q_learning.py'. This trains the Q-learning agent and saves the results as NumPy files.
+5. Visualize results using 'visualization.py'. This creates various visualizations of the learning process and price recommendations.
 
 ## Data Generation
 
